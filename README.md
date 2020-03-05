@@ -1,2 +1,3 @@
-# terraform-random-demo
-terraform-random-demo
+Terraform Enterprise Server
+Random Private Module Demo
+Version 1.2.0
